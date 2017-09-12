@@ -1,2 +1,2 @@
-# omment
+# comment
 FROM node:8
