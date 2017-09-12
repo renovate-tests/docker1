@@ -1,2 +1,2 @@
-# FROM node:8 comment
-FOGROM node:8
+# omment
+FROM node:8
