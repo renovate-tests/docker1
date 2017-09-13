@@ -1,2 +1,2 @@
-# FROM node:7 comment
-FROM node@sha:abcdefghijklmnopqrst
+# FROM node:8 comment
+FROM node:8
