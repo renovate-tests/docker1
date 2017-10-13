@@ -1,3 +1,3 @@
 # FROM node:8 comment
-FROM node:6.11-onbuild
+FROM node:6.10-onbuild
 RUN something
