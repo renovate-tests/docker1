@@ -1,3 +1,3 @@
 # FROM node:8 comment
-FROM node:8
+FROM node:6
 RUN something
